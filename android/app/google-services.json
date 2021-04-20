@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56921127028",
+    "project_id": "projectkayprincipal",
+    "storage_bucket": "projectkayprincipal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56921127028:android:7a4d2ddeee3ba5ca04b921",
+        "android_client_info": {
+          "package_name": "com.example.kay_empresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56921127028-lkcjqq7m66da5n86l136ktaifa79p1pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCibwokOVzZ_Tr3kGrR42U1jBf5VDBtWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56921127028-lkcjqq7m66da5n86l136ktaifa79p1pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
